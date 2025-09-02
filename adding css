@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adding CSS</title>
+    <link rel="stylesheet" href="/styles.css"/>
+</head>
+
+<body>
+  <h1>Three methods of adding css</h1>
+  </body>
+
+  <h2>1.External css</h2>
+  <h3>2.Internal css</h3>
+  <h4>3.Inline css</h4>
+  <hr>
+<!-- create 3 links to the 3 webpages : inline , internal , external -->
+  <a href="index.html">External css</a>
+  <a href="internal.html">Internal css</a>
+  <a href="inline.html">Inline css</a>
+  <hr>
+
+
+<body>
+  <h1style="color:blue">Style me in blue!</h1>
+
+   <h1 style="color: blue; text-align: center;">This is an inline css example</h1>
+
+
+  <h2 style="color: red; text-align: center;">This is an inline css example</h2>
+  <h3 style="color: green; text-align: center;">This is an inline css example</h3>
+  <h4 style="color: purple; text-align: center;">This is an inline css example</h4>
+  <hr>
+  <h1>This is an internal css example</h1>
+  <h2>This is an internal css example</h2>
+  <h3>This is an internal css example</h3>
+  <h4>This is an internal css example</h4>
+</body>
+
+</html
+
+
+
+  <!-- create a heading structure for a book with 3 chapters , each chapter has 2 sections , chapter 2 section 1 has a diagram -->
+<h1>Chapter 1</h1>
+   <h1> Section 1</h1>
+   <h1> Section 2</h1>
+ <h2> Chapter 2</h2>
+    <h1>Section 1</h1>
+     <h1>Diagram 1</h1>
+  <h3>Chapter 3v</h3>
+     <h1>Section 1</h1>
+    <h1>Section 2</h1>
+<h4>Book</h4>
+</body>
+
+</html> 
